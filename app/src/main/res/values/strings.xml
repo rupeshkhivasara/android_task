@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kawa Task</string>
+    <string name="Text_Connection_Issue">There was a connection issue. Make sure you have an active Internet connection, then click retry to try again.</string>
+    <string name="Popup_Title_Connection_Issue">Connection Issue</string>
+    <string name="Text_Poor_Connection_Issue">We were unable to connect to our server - please try again ensuring you have a good internet connection.</string>
+    <string name="Button_Retry">RETRY</string>
+    <string name="Button_Cancel">CANCEL</string>
+    <string name="Error_General">Something went wrong. Please try after some time. If the issue persists, do get in touch with us at contact@kawa.net</string>
+    <string name="Popup_Title_Error">Error!</string>
+    <string name="menu_download">Download</string>
+    <string name="menu_pricing">Pricing</string>
+    <string name="menu_product">Product</string>
+
+</resources>

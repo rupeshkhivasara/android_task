@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/overflowMenu"
+        android:icon="@drawable/hamburger_icon"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/nav_menu_product"
+                android:icon="@drawable/product_icon"
+                android:title="@string/menu_product" />
+            <item
+                android:id="@+id/nav_menu_download"
+                android:icon="@drawable/ic_download"
+                android:title="@string/menu_download"
+
+                />
+            <item
+                android:id="@+id/nav_menu_pricing"
+                android:icon="@drawable/ic_pricing"
+                android:title="@string/menu_pricing"
+
+                />
+        </menu>
+    </item>
+</menu>
